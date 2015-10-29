@@ -1,3 +1,4 @@
+//ULISES
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
@@ -12,4 +13,6 @@ int main(){
 		printf("Hola!!, me he dado cuenta que tienes:%d ",edad );
 		
 	}
+	printf("\n Tu edad es:%d ",edad);
+	printf("\n =D)");
 }
